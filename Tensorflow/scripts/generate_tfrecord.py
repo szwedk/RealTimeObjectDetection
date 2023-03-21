@@ -15,7 +15,6 @@ optional arguments:
   -c CSV_PATH, --csv_path CSV_PATH
                         Path of output .csv file. If none provided, then no file will be written.
 """
-
 import os
 import glob
 import pandas as pd

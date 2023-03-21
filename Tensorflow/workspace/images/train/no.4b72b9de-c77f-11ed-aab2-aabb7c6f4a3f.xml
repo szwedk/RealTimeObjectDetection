@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.4b72b9de-c77f-11ed-aab2-aabb7c6f4a3f.jpg</filename>
+	<path>/Users/kamilszwed/Documents/PROJECTS/ASLify/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/no.4b72b9de-c77f-11ed-aab2-aabb7c6f4a3f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1020</xmin>
+			<ymin>632</ymin>
+			<xmax>1393</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+</annotation>
